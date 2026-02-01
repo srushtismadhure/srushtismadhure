@@ -1,4 +1,13 @@
 ## Hi there 👋
+# 🗂️ Clinical Project Record
+
+**System:** Clinical NLP & Unstructured Data Analysis  
+**Author:** Srushti Madhure  
+**Role:** Health Informatics · Data & Analytics  
+
+![status](https://img.shields.io/badge/status-active-success)
+![domain](https://img.shields.io/badge/domain-clinical%20nlp-blue)
+![data](https://img.shields.io/badge/data-de--identified-informational)
 
 <!--
 **srushtismadhure/srushtismadhure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
