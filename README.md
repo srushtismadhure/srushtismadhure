@@ -1,12 +1,12 @@
-## Hi there 👋
-# 🗂️ Clinical Project Record
 
 🏥 Electronic Human Record (EHR)
 
-Patient Name: Srushti Madhure
-Status: Active Developer
-Specialty: Front-End Development & User Experience
+Patient Name: Srushti Madhure  
+Status: Active Developer  
+Specialty: Front-End Development & User Experience  
 Condition: Chronically curious. Terminally creative.
+
+
 ![status](https://img.shields.io/badge/status-active-success)
 ![domain](https://img.shields.io/badge/domain-clinical%20nlp-blue)
 ![data](https://img.shields.io/badge/data-de--identified-informational)
