@@ -6,7 +6,7 @@
 **Primary Domain:** Digital Health & Clinical Analytics
 
 
-# 📋 Clinical Summary:
+## 📋 Clinical Summary
 
 I am a healthcare data analyst with a Master’s degree in Health Informatics from the University of Michigan (GO BLUE💙) and a background in integrative medicine. 
 
