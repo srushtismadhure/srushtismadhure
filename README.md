@@ -6,8 +6,6 @@
 **Primary Domain:** Digital Health & Clinical Analytics
 
 
-**Chief Complaint:** Difficulty translating complex healthcare data into actionable clinical and operational decisions.
-
 **Clinical Summary:**
 
 I am a health informatics professional with a formal background in integrative medicine
