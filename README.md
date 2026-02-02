@@ -20,5 +20,10 @@ My background enables me to bring a clinical lens to data challenges, ensuring t
 **Healthcare Domains:** Digital health, femtech, clinical analytics, population health  
 **Current Focus:** Building scalable, HIPAA compliant data infrastructure and analytics for decision support
 
+### 📎 Referrals & Contact
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/srushti-madhure/
+- 📧 Email: Srushtisunilmadhure@gmail.com
+- 💻 GitHub: https://github.com/srushtismadhure
 
 
