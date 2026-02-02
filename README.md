@@ -7,7 +7,6 @@
 
 
 **Clinical Summary:**
-
 I am a health informatics professional with a formal background in integrative medicine
 and a Master’s degree in Health Informatics.
 
