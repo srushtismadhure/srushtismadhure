@@ -7,11 +7,7 @@
 
 
 **Clinical Summary:**
-I am a health informatics professional with a formal background in integrative medicine
-and a Master’s degree in Health Informatics.
-
-My clinical training in integrative care brings a clinical lens and systems-level
-approach to data analysis.
+I am a healthcare data analyst with a Master’s degree in Health Informatics from the University of Michigan (GO BLUE! 💙) and a background in integrative medicine. My background enables me to bring a clinical lens to data challenges, ensuring that analytics, data models, and pipelines are clinically sound and aligned with real-world clinical limitations and constraints. I currently work as a Data Engineer at a femtech startup, where I build data infrastructure including ETL pipelines, data models, and analytics for reporting and decision support.
 
 Primary emphasis areas include:
 - Patient context and behavioral factors
