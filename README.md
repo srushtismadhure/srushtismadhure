@@ -1,4 +1,4 @@
-# 🩺 Electronic Health Record
+# 🩺 Health Record
 
 **Patient:** Srushti Madhure  
 **Status:** Active  
@@ -12,7 +12,7 @@ I am a healthcare data analyst with a Master’s degree in Health Informatics fr
 
 My background enables me to bring a clinical lens to data challenges, ensuring that analytics, data models, and pipelines are clinically sound and aligned with real-world clinical limitations and constraints. I currently work as a Data Engineer at a femtech startup, where I build data infrastructure including ETL pipelines, data models, and analytics for reporting and decision support.
 
-## 🫀 Vitals
+## core competencies
 
 **Core Skills:** Analytics, Data Engineering, ETL pipelines, data modeling, predictive models  
 **Programming & Data:**  SQL, R, Python ( pandas, numPy), Excel, PowerBI, Tableau
