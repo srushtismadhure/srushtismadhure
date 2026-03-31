@@ -12,7 +12,7 @@ I am a healthcare data analyst with 3 years of experience and a Master’s degre
 
 My background enables me to bring a clinical lens to data challenges, ensuring that analytics, data models, and pipelines are clinically sound and aligned with real-world clinical limitations and constraints. I currently work as a Data Engineer at a femtech startup, where I build data infrastructure including ETL pipelines, data models, and analytics for reporting and decision support.
 
-<AI> 
+<AI>
 I have hands-on experience developing predictive models and integrating AI directly into Healthcare applications, and most importantly, EVALUATING them. I bridge the gap between model development and real-world healthcare workflows, with HIPAA compliance and patient safety as my top priorties. 
   
 ## core competencies
