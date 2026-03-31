@@ -14,6 +14,7 @@ My background enables me to bring a clinical lens to data challenges, ensuring t
 
 <AI>
 I have hands-on experience developing predictive models and integrating AI directly into Healthcare applications, and most importantly, EVALUATING them. I bridge the gap between model development and real-world healthcare workflows, with HIPAA compliance and patient safety as my top priorties. 
+</AI>
   
 ## core competencies
 
